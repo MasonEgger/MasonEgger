@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hey y'all! 🤠 My name is Mason Egger and welcome to my GitHub page 👋
 
-<!--
-**MasonEgger/MasonEgger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a Sr. Developer Advocate at DigitalOcean. I'm currently the conference
+chair of [PyTexas 2022](https://pytexas.org), organizer of DigitalOcean's 
+yearly [Hacktoberfest](https://hacktoberfest.digitalocean.com/) program, program
+organizer for DigitalOcean's [Navigators](https://do.co/navigators) program,
+and a host of the weekly DigitalOcean Webshow [Cloud Chats](https://do.co/cloudchats)
 
-Here are some ideas to get you started:
+If you're looking for sample code from one of my talks check out 
+[MasonEgger-Demos](https://github.com/MasonEgger-Demos)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+* 🔭 I’m currently working on
+    * Hacktoberfest 
+* 🌱 I’m currently learning
+    * Golang 🤘
+    * Frontend 😱
+* 📫 How to reach me:
+    * Twitter: [@masonegger](https://twitter.com/masonegger)
+    * Email: mason AT masonegger DOT com
+* 😄 Pronouns: He/Him
