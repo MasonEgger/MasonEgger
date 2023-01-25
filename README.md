@@ -1,6 +1,6 @@
 ## Hey y'all! 🤠 My name is Mason Egger and welcome to my GitHub page 👋
 
-I'm currently the Lead Developer Advocate at [Gretel.ai](https://gretel.ai). 
+I'm currently a Senior Technical Curriculum Developer on the Developer Education at [Temporal](https://temporal.io). 
 
 I'm currently:
 * Conference chair of [PyTexas 2022](https://pytexas.org),
@@ -14,9 +14,11 @@ My slides, thoughts, and tutorials can be found on my website [mason.dev](https:
 ### About Me
 
 * 🔭 I’m currently working on
-    * Building the Gretel Community
+    * Building world class educational content for Temporal developers
+    * Writing a book
 * 🌱 I’m currently learning
-    * Data Science/Machine Learning 🤖
+    * Temporal
+    * Distributed Systems
     * Frontend 😱
 * 📫 How to reach me:
     * Twitter: [@masonegger](https://twitter.com/masonegger)
