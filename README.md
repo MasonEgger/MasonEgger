@@ -2,15 +2,16 @@
 
 I'm currently a Senior Technical Curriculum Developer on the Developer Education at [Temporal](https://temporal.io). 
 
-I'm currently:
-* Conference chair of [PyTexas 2022](https://pytexas.org),
-* President of the PyTexas Foundation, 
-* Advisory Council member of DigitalOcean's yearly [Hacktoberfest](https://hacktoberfest.digitalocean.com/) program
+Outside of work I currently am:
+* Conference chair of [PyTexas](https://pytexas.org)
+* President of the PyTexas Foundation
+* Advisory Council member of DigitalOcean's annual [Hacktoberfest](https://hacktoberfest.digitalocean.com/) program
 
 If you're looking for sample code from one of my talks check out 
 [MasonEgger-Demos](https://github.com/MasonEgger-Demos)
 
 My slides, thoughts, and tutorials can be found on my website [mason.dev](https://mason.dev)
+
 ### About Me
 
 * 🔭 I’m currently working on
