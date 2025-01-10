@@ -8,7 +8,7 @@ Outside of work I currently am:
 * Advisory Council member of DigitalOcean's annual [Hacktoberfest](https://hacktoberfest.digitalocean.com/) program
 
 If you're looking for sample code from one of my talks check out 
-[MasonEgger-Demos](https://github.com/MasonEgger-Demos)
+[MasonEgger-Edu](https://github.com/MasonEgger-Edu)
 
 My slides, thoughts, and tutorials can be found on my website [mason.dev](https://mason.dev)
 
